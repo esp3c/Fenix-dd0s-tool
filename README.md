@@ -1,1 +1,3 @@
-# Fenix-dd0s-tool
+# Fenix DDOS
+
+is a prototype by R.S.C
